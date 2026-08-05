@@ -2,11 +2,21 @@
 
 ## Project Overview
 
-This Power BI project analyzes pizza sales performance using interactive dashboards. It provides insights into revenue, orders, quantity sold, customer preferences, and sales trends to support business decision-making.
+This project is an interactive Power BI dashboard developed to analyze pizza sales performance. It provides business insights into revenue, sales trends, customer preferences, and product performance using interactive visualizations and KPIs.
+
+## Tools Used
+
+- Power BI
+- DAX
+- Microsoft Excel
 
 ## Dashboard Pages
 
-### Home Page
+### Business Overview
+
+This dashboard provides an overall view of business performance through key performance indicators and sales trends.
+
+**Key Insights:**
 - Total Revenue
 - Total Orders
 - Total Quantity Sold
@@ -14,10 +24,14 @@ This Power BI project analyzes pizza sales performance using interactive dashboa
 - Average Pizzas per Order
 - Revenue by Pizza Category
 - Revenue by Pizza Size
-- Monthly Revenue Trend
-- Interactive slicers for pizza category and month
+- Monthly Revenue Analysis
+- Interactive Filters and Slicers
 
-### Top & Bottom Performing Pizzas
+### Product Performance
+
+This dashboard analyzes the performance of individual pizza products.
+
+**Key Insights:**
 - Top 5 Pizzas by Revenue
 - Top 5 Pizzas by Quantity Sold
 - Top 5 Pizzas by Orders
@@ -25,18 +39,21 @@ This Power BI project analyzes pizza sales performance using interactive dashboa
 - Bottom 5 Pizzas by Quantity Sold
 - Bottom 5 Pizzas by Orders
 
-## Tools Used
-- Power BI
-- DAX
-- Microsoft Excel
+## Project Files
 
-## Key Features
-- Interactive dashboard
-- KPI cards
-- Slicers and filters
-- Sales trend analysis
-- Revenue analysis
-- Product performance analysis
+- Pizza_Sales_Analysis.pbix
+- pizza_sales.xlsx
+
+## Dashboard Preview
+
+### Business Overview
+
+*(Insert your first dashboard screenshot here)*
+
+### Product Performance
+
+*(Insert your second dashboard screenshot here)*
+
 
 ## Author
 Jennifer
