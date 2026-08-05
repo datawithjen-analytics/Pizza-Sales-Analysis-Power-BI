@@ -1,42 +1,42 @@
-# Pizza Sales Analysis - Power BI
+# Pizza Sales Analysis Dashboard
 
 ## Project Overview
 
-This project presents an interactive Power BI dashboard that analyzes pizza sales performance using business intelligence techniques. The dashboard provides insights into revenue, orders, product performance, customer preferences, and sales trends through interactive visualizations.
+This Power BI project analyzes pizza sales performance using interactive dashboards. It provides insights into revenue, orders, quantity sold, customer preferences, and sales trends to support business decision-making.
+
+## Dashboard Pages
+
+### Home Page
+- Total Revenue
+- Total Orders
+- Total Quantity Sold
+- Average Order Value
+- Average Pizzas per Order
+- Revenue by Pizza Category
+- Revenue by Pizza Size
+- Monthly Revenue Trend
+- Interactive slicers for pizza category and month
+
+### Top & Bottom Performing Pizzas
+- Top 5 Pizzas by Revenue
+- Top 5 Pizzas by Quantity Sold
+- Top 5 Pizzas by Orders
+- Bottom 5 Pizzas by Revenue
+- Bottom 5 Pizzas by Quantity Sold
+- Bottom 5 Pizzas by Orders
 
 ## Tools Used
-
 - Power BI
 - DAX
 - Microsoft Excel
 
-## Project Features
-
-- Interactive dashboard with slicers and filters
-- Sales performance analysis
-- Revenue trend analysis
-- Pizza category analysis
-- Pizza size analysis
-- Monthly sales analysis
-- Top-selling pizzas
-- KPI cards for business metrics
-
-## KPIs
-
-- **Total Revenue** – Total revenue generated from pizza sales.
-- **Total Orders** – Total number of customer orders.
-- **Total Quantity Sold** – Total pizzas sold.
-- **Average Order Value** – Average revenue per order.
-- **Average Pizzas per Order** – Average number of pizzas ordered per transaction.
-
-## Key Insights
-
-- Identified the highest revenue-generating pizza categories.
-- Compared sales performance by pizza size.
-- Analyzed monthly sales trends.
-- Identified top-selling pizzas by revenue and quantity.
-- Used interactive filters for detailed business analysis.
+## Key Features
+- Interactive dashboard
+- KPI cards
+- Slicers and filters
+- Sales trend analysis
+- Revenue analysis
+- Product performance analysis
 
 ## Author
-
 Jennifer
