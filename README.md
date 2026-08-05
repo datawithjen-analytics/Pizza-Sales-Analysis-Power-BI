@@ -48,11 +48,14 @@ This dashboard analyzes the performance of individual pizza products.
 
 ### Business Overview
 
-*(Business_Overview.PNG)*
+![Business Overview]
+(Business_Overview.PNG)
+
 
 ### Product Performance
 
-*(Product_Performance.PNG)*
+![Product Performance]
+(Product_Performance.PNG)
 
 
 ## Author
