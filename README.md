@@ -50,9 +50,13 @@ This dashboard analyzes the performance of individual pizza products.
 
 ![Business Overview](./Business_Overview.PNG)
 
+- Shows KPIs, revenue trends, sales by category, size, and month.
+
 ### Product Performance
 
 ![Product Performance](./Product_Performance.PNG)
+
+- Shows top and bottom performing pizzas based on revenue, quantity sold, and orders.
 
 
 ## Author
